@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "81d10f7258899e4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe0c95adaa05802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c2c0e29688e1b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9431d9fcea41e2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a8236b3c995b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a759aa2be6540b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6af55a0f623c06fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5fe2276627c5dc76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5faa94e380a8d159",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c3052c37365aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f839144ae198d331",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "missing semester/shell tools and scripting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "shell tools and scripting 的反向链接列表"
+            }
+          },
+          {
+            "id": "7256ad9e20be9498",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "missing semester/shell tools and scripting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "shell tools and scripting 的出链列表"
+            }
+          },
+          {
+            "id": "1e53af57755ca23a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "73465327d8b5a37d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6db82133a0d19e59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unix.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Unix 的大纲"
+            }
+          },
+          {
+            "id": "1c499ec987d581db",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
+            }
+          },
+          {
+            "id": "12b5796ce1ecc6a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c5c2c0e29688e1b7",
+  "lastOpenFiles": [
+    "missing semester/shell tools and scripting.md",
+    "Algorithms.md",
+    "ICDS/lecture/Lecture2.md",
+    "ICDS/recitation/Recitation6.md",
+    "ICDS.md",
+    "ICDS/recitation/Recitation3.md",
+    "cs61A/Lecture_Video/Control.md",
+    "cs61A/Lab/Unix.md",
+    "cs61A/Lecture_Video/Functions.md",
+    "Higher-ordered functions.md",
+    "$? -ne 0.md",
+    "ICDS/recitation/Recitation2.md",
+    "missing semester/The shell.md",
+    "ICDS/lecture/Lecture1.md",
+    "cs61A/Lab/FunctionsLab.md",
+    "ICDS/recitation/截屏2026-02-07 19.32.43.png",
+    "cs61A/Lecture_Video/welcome.md",
+    "cs61A/cs61A picture/截屏2026-01-23 17.39.28.png",
+    "cs61A/cs61A picture/截屏2026-01-23 17.44.11.png",
+    "ICDS/recitation",
+    "ICDS/lecture",
+    "cs61A/cs61A picture/截屏2026-01-24 16.53.52.png",
+    "cs61A/cs61A picture/截屏2026-01-24 18.38.57.png",
+    "cs61A/cs61A picture/截屏2026-01-24 18.33.23.png",
+    "cs61A/cs61A picture/截屏2026-01-24 16.59.27.png",
+    "cs61A/cs61A picture/截屏2026-01-24 16.56.46.png",
+    "cs61A/cs61A picture/截屏2026-01-24 16.56.13.png",
+    "cs61A/cs61A picture/截屏2026-01-23 17.56.44.png",
+    "Getting started.md",
+    "未命名.base",
+    "linex.md",
+    "未命名 1.base",
+    "未命名 2.base",
+    "cs61A/Lab",
+    "未命名 1",
+    "cs61A/Lecture_Video",
+    "ICDS",
+    "cs61A/cs61A picture",
+    "未命名.canvas",
+    "2025-12-31.md",
+    "欢迎.md"
+  ]
+}

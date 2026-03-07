@@ -1,0 +1,19 @@
+{
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
+    }
+  ],
+  "execute-code:run-all-code-blocks-in-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "N"
+    }
+  ]
+}
