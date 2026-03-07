@@ -1,6 +1,7 @@
 The detailed info: <https://cs61a.org/articles/unix/#creating-files>
 
 一种是直接用光标互动，一种是用terminal去manage
+
 ### UNIX commands
 
 - Directories:
