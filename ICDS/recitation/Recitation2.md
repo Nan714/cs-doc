@@ -39,7 +39,7 @@ for i, fruit in enumerate(fruits):
 
 ### Comprehension
 #### list comprehension
-`squares = (x*x for x in range(5)]`
+`squares = [x*x for x in range(5)]`
 #### set comprehension
 `squares = {x*x for x in range(5)}`
 #### dic comprehension
