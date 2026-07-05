@@ -1,3 +1,7 @@
+---
+course: cs61A
+---
+
 # Names, Assignment, and User-Defined Functions
 terminal: python3
 control +L : clear 
