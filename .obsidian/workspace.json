@@ -4,151 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe0c95adaa05802",
+        "id": "e7dab3d0f6e2c04c",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c2c0e29688e1b7",
+            "id": "f1e17d90d11533c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Higher-ordered functions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Higher-ordered functions"
-            }
-          },
-          {
-            "id": "6c1a7c06c0883361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICDS/lecture/Lecture2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture2"
-            }
-          },
-          {
-            "id": "54cf404d1eaadcfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICDS/recitation/Recitation6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recitation6"
-            }
-          },
-          {
-            "id": "5b91c7d43bb6e710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICDS/recitation/Recitation6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recitation6"
-            }
-          },
-          {
-            "id": "28812c1ddab59636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lec 10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lec 10"
-            }
-          },
-          {
-            "id": "dc769c63f8f7f8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs61A_lecture/Lecture_Video/Environments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Environments"
-            }
-          },
-          {
-            "id": "49d9c3287537d4b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs61A_lecture/Lab/Unix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unix"
-            }
-          },
-          {
-            "id": "feb7cf508b17a7bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs61A_lecture/Lecture_Video/Control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Control"
-            }
-          },
-          {
-            "id": "5316ab0b9dde32ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sequence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sequence"
-            }
-          },
-          {
-            "id": "4e857e79f8be01e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Containers"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5faa94e380a8d159",
@@ -342,53 +212,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e857e79f8be01e1",
+  "active": "1e53af57755ca23a",
   "lastOpenFiles": [
-    "Data Abstraction.md",
-    "截屏2026-07-05 12.49.10.png",
-    "截屏2026-07-05 12.37.31.png",
-    "Containers.md",
-    "截屏2026-07-04 20.57.30.png",
-    "Sequence.md",
+    "未命名 1.base",
+    "未命名.base",
+    "Object-Oriented Programming.md",
+    "Generators.md",
+    "截屏2026-07-06 18.52.28.png",
+    "截屏2026-07-06 18.49.57.png",
+    "截屏2026-07-06 18.46.41.png",
+    "截屏2026-07-06 18.43.12.png",
+    "截屏2026-07-06 18.38.53.png",
+    "截屏2026-07-06 18.31.06.png",
+    "截屏2026-07-06 16.23.16.png",
+    "Iterators.md",
+    "截屏2026-07-06 16.13.14.png",
+    "截屏2026-07-06 16.12.41.png",
+    "截屏2026-07-06 16.11.10.png",
+    "Mutability.md",
+    "Trees.md",
+    "cs61A_lecture/Lecture_Video/Containers.md",
+    "库.md",
     "cs61A_lecture/Lecture_Video/Control.md",
+    "cs61A_lecture/Lecture_Video/Data Abstraction.md",
+    "cs61A_lecture/Lecture_Video/Environments.md",
+    "cs61A_lecture/Lecture_Video/Functions.md",
+    "cs61A_lecture/Lecture_Video/Higher-ordered functions.md",
+    "cs61A_lecture/Lecture_Video/Recursion.md",
+    "cs61A_lecture/Lecture_Video/Sequence.md",
+    "cs61A_lecture/Lecture_Video/welcome.md",
+    "trivial.md",
+    "missing semester/The shell.md",
     "cs61A_lecture/Lab/What would python display.md",
     "cs61A_lecture/Lab/FunctionsLab.md",
-    "cs61A_lecture/cs61A picture/截屏2026-06-22 12.54.40.png",
     "cs61A_lecture/Lab/Unix.md",
-    "missing semester/The shell.md",
     "missing semester/shell tools and scripting.md",
-    "trivial.md",
-    "cs61A_lecture/Lecture_Video/Recursion.md",
-    "库.md",
-    "cs61A_lecture/cs61A picture/截屏2026-06-22 12.58.16.png",
-    "cs61A_lecture/Lecture_Video/Environments.md",
-    "cs61A_lecture/Lecture_Video/Higher-ordered functions.md",
-    "cs61A_lecture/Lecture_Video/welcome.md",
-    "cs61A_lecture/Lecture_Video/Functions.md",
     "knn.ipynb",
     "ICDS/lecture/Lec 10.md",
     "ICDS/lecture/ICDS LLM.md",
     "ICDS/lecture/ICDS final.md",
     "Algorithms.md",
-    "cs61A/Lecture_Video/Control.md",
-    "cs61A_lecture/cs61A picture/截屏2026-01-24 18.38.57.png",
-    "cs61A_lecture/cs61A picture/截屏2026-01-24 18.33.23.png",
-    "cs61A_lecture/cs61A picture/截屏2026-01-24 16.59.27.png",
-    "cs61A_lecture/cs61A picture/截屏2026-01-24 16.56.46.png",
-    "cs61A_lecture/cs61A picture/截屏2026-01-24 16.56.13.png",
     "cs61A_lecture/cs61A picture",
     "cs61A_lecture/Lecture_Video",
     "cs61A_lecture/Lab",
     "cs61A_lecture",
-    "cs61A/Lecture_Video/welcome.md",
-    "cs61A/Lecture_Video/Functions.md",
-    "ICDS/recitation/Recitation8.md",
-    "ICDS/recitation/Recitation6.md",
     "base/lib/python3.13/site-packages/numpy-2.4.4.dist-info/REQUESTED",
     "base/lib/python3.13/site-packages/numpy-2.4.4.dist-info/INSTALLER",
     "base/bin/numpy-config",
     "base/bin/f2py",
-    "base/lib/python3.13/site-packages/numpy/__pycache__/version.cpython-313.pyc",
     "未命名.canvas"
   ]
 }
