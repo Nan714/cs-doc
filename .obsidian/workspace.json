@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7dab3d0f6e2c04c",
+        "id": "d02c8a9c4bfbe5be",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e17d90d11533c6",
+            "id": "a0b922dc28594aa3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cs61A_lecture/Lecture_Video/Trees.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Trees"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5faa94e380a8d159",
@@ -212,25 +215,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e53af57755ca23a",
+  "active": "2a759aa2be6540b9",
   "lastOpenFiles": [
+    "cs61A_lecture/Lecture_Video/Attributes.md",
+    "cs61A_lecture/cs61A picture/截屏2026-07-05 12.55.48.png",
     "未命名 1.base",
     "未命名.base",
-    "Object-Oriented Programming.md",
-    "Generators.md",
-    "截屏2026-07-06 18.52.28.png",
-    "截屏2026-07-06 18.49.57.png",
-    "截屏2026-07-06 18.46.41.png",
-    "截屏2026-07-06 18.43.12.png",
-    "截屏2026-07-06 18.38.53.png",
-    "截屏2026-07-06 18.31.06.png",
-    "截屏2026-07-06 16.23.16.png",
-    "Iterators.md",
-    "截屏2026-07-06 16.13.14.png",
-    "截屏2026-07-06 16.12.41.png",
-    "截屏2026-07-06 16.11.10.png",
-    "Mutability.md",
-    "Trees.md",
+    "未命名 3.base",
+    "未命名 2.base",
+    "cs61A_lecture/cs61A picture/截屏2026-07-07 13.57.54.png",
+    "cs61A_lecture/cs61A picture/截屏2026-07-07 13.55.13.png",
+    "cs61A_lecture/Lecture_Video/Generators.md",
+    "cs61A_lecture/Lecture_Video/Object-Oriented Programming.md",
+    "cs61A_lecture/cs61A picture/截屏2026-07-06 18.52.28.png",
+    "cs61A_lecture/cs61A picture/截屏2026-07-06 18.49.57.png",
+    "cs61A_lecture/cs61A picture/截屏2026-07-06 18.46.41.png",
+    "cs61A_lecture/cs61A picture/截屏2026-07-06 18.43.12.png",
+    "cs61A_lecture/cs61A picture/截屏2026-07-06 18.38.53.png",
+    "cs61A_lecture/cs61A picture/截屏2026-07-06 18.31.06.png",
+    "cs61A_lecture/cs61A picture/截屏2026-07-06 16.23.16.png",
+    "cs61A_lecture/Lecture_Video/Iterators.md",
+    "cs61A_lecture/Lecture_Video/Mutability.md",
+    "cs61A_lecture/Lecture_Video/Trees.md",
     "cs61A_lecture/Lecture_Video/Containers.md",
     "库.md",
     "cs61A_lecture/Lecture_Video/Control.md",
@@ -251,15 +257,11 @@
     "ICDS/lecture/Lec 10.md",
     "ICDS/lecture/ICDS LLM.md",
     "ICDS/lecture/ICDS final.md",
-    "Algorithms.md",
     "cs61A_lecture/cs61A picture",
     "cs61A_lecture/Lecture_Video",
     "cs61A_lecture/Lab",
     "cs61A_lecture",
     "base/lib/python3.13/site-packages/numpy-2.4.4.dist-info/REQUESTED",
-    "base/lib/python3.13/site-packages/numpy-2.4.4.dist-info/INSTALLER",
-    "base/bin/numpy-config",
-    "base/bin/f2py",
     "未命名.canvas"
   ]
 }
