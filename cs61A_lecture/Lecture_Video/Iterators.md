@@ -35,6 +35,20 @@ for i in ri:
 ![[截屏2026-07-06 16.04.54.png]]
 ![[截屏2026-07-06 16.11.10.png]]
 
+```python
+nums = [1, 2, 3]
+
+result = map(lambda x: x * 2, nums)
+
+print(list(result))
+
+words = ["cat", "apple", "python"]
+
+result = map(len, words)
+
+print(list(result))
+```
+
 ---
 # Zip
 ![[截屏2026-07-06 16.12.41.png]]
