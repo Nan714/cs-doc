@@ -81,14 +81,10 @@
             "id": "2132d6322c5b47bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composition.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Composition"
+              "title": "新标签页"
             }
           }
         ],
@@ -242,8 +238,8 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
+              "icon": "lucide-ghost",
+              "title": "code-execute-manage-executors"
             }
           },
           {
@@ -262,8 +258,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -288,6 +284,9 @@
   },
   "active": "2132d6322c5b47bf",
   "lastOpenFiles": [
+    "UCB_CS61A/cs61a_notes/cs61A picture/截屏2026-07-08 16.30.32.png",
+    "UCB_CS61A/cs61a_notes/cs61A picture/截屏2026-07-08 16.30.05.png",
+    "UCB_CS61A/cs61a_notes/cs61A picture/截屏2026-07-08 16.28.58.png",
     "UCB_CS61A/cs61a_notes/Lecture_notes/Composition.md",
     "UCB_CS61A/cs61a_practice/projects/cats/gui_files/static/js/runtime~main.a8a9905a.js",
     "UCB_CS61A/cs61a_practice/projects/cats/gui_files/static/js/main.b9755c29.chunk.js",
@@ -307,8 +306,6 @@
     "UCB_CS61A/cs61a_practice/projects/hog/gui_files/favicon.gif",
     "UCB_CS61A/cs61a_practice/projects/hog/fuss.png",
     "UCB_CS61A/cs61a_notes/cs61A picture/截屏2026-07-21 14.57.50.png",
-    "UCB_CS61A/cs61a_notes/cs61A picture/截屏2026-07-21 14.54.53.png",
-    "UCB_CS61A/cs61a_notes/cs61A picture/截屏2026-07-21 14.54.11.png",
     "UCB_CS61A/cs61a_notes/Lecture_notes/welcome.md",
     "UCB_CS61A/cs61a_notes/Lecture_notes/Trees.md",
     "UCB_CS61A/cs61a_notes/Lecture_notes/Sequence.md",
@@ -333,7 +330,6 @@
     "UCB_CS61A/cs61a_notes/Composition.md",
     "CS61A/cs61a_notes/Composition.md",
     "CS61A/cs61a_notes/Lecture_notes/welcome.md",
-    "CS61A/cs61a_notes/Lecture_notes/Trees.md",
     "未命名.canvas"
   ]
 }
