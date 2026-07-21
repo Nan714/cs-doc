@@ -186,8 +186,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -220,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19062e87bc13c408",
+  "active": "e6fcdbc1dd81c01c",
   "lastOpenFiles": [
     "cs61a_notes/Lab_notes/Unix.md",
     "cs61a_notes/Lab_notes/What would python display.md",
