@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "873ea1ac407fa032",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab627e17ae5d41e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c226963e73d4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture_Video/Trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trees"
+            }
+          },
+          {
+            "id": "19062e87bc13c408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs61a_notes/Lab_notes/FunctionsLab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FunctionsLab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28633b77dbc8fb8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a168ad387331d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b72cb30eff818cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "80a1b81f0fc26713",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"course\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "18b4731db0852f4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ad1578404c93363",
+    "type": "split",
+    "children": [
+      {
+        "id": "034df23834ede5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d1f66b0a8e4311",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cs61a_notes/Lab_notes/FunctionsLab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "FunctionsLab 的反向链接列表"
+            }
+          },
+          {
+            "id": "df500a9dc48b4f92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Composition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Composition 的出链列表"
+            }
+          },
+          {
+            "id": "dc94b64e32cbc94e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6e30c47308d2000c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9df82bb625ac1b97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Composition.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Composition 的大纲"
+            }
+          },
+          {
+            "id": "b920f3578e9ff270",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "e6fcdbc1dd81c01c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "19062e87bc13c408",
+  "lastOpenFiles": [
+    "cs61a_notes/Lab_notes/Unix.md",
+    "cs61a_notes/Lab_notes/What would python display.md",
+    "cs61a_notes/Lab_notes/FunctionsLab.md",
+    "cs61a_notes/Decomposition.md",
+    "cs61a_notes/Lecture_notes/Composition.md",
+    "cs61a/projects/hog/gui_files/static/js/runtime-main.49dadbd7.js",
+    "cs61a/projects/hog/gui_files/static/js/main.6e5b0756.chunk.js",
+    "cs61a/projects/hog/gui_files/static/js/2.eabac79c.chunk.js.LICENSE.txt",
+    "cs61a/projects/hog/gui_files/static/js/2.eabac79c.chunk.js",
+    "cs61a/projects/hog/gui_files/static/css/main.c7d1c5f3.chunk.css",
+    "cs61a/projects/hog/gui_files/static/css/2.27dd871e.chunk.css",
+    "cs61a/projects/cats/gui_files/static/js/runtime~main.a8a9905a.js",
+    "cs61a/projects/cats/gui_files/static/js/main.b9755c29.chunk.js",
+    "cs61a/projects/cats/gui_files/static/js/2.ecdaf578.chunk.js",
+    "cs61a/projects/cats/gui_files/static/css/2.df9ef6f4.chunk.css",
+    "cs61a/projects/hog/gui_files/favicon.gif",
+    "cs61a/projects/cats/images/keyboard.png",
+    "cs61a/projects/cats/images/fib_tree.png",
+    "cs61a/projects/cats/images/cats_typing_still.gif",
+    "cs61a/projects/cats/images/cats_typing.gif",
+    "cs61a/projects/cats/favicons/kissing.png",
+    "cs61a/projects/hog/fuss.png",
+    "Composition.md",
+    "截屏2026-07-21 14.57.50.png",
+    "Tree Class.md",
+    "截屏2026-07-21 14.54.53.png",
+    "截屏2026-07-21 14.54.11.png",
+    "Lecture_Video/Trees.md",
+    "Lecture_Video/Representation.md",
+    "Decomposition.md",
+    "Lecture_Video/Mutability.md",
+    "Lecture_Video/Control.md",
+    "Lecture_Video/Containers.md",
+    "Lecture_Video/Data Abstraction.md",
+    "Lecture_Video/Environments.md",
+    "Lecture_Video/welcome.md",
+    "Lecture_Video/Generators.md"
+  ]
+}
