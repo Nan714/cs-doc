@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ab627e17ae5d41e8",
+        "id": "9e9311832be0e4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "44c226963e73d4f2",
+            "id": "5ba8eda87488198d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture_Video/Trees.md",
+                "file": "cs61a_notes/Lab_notes/What would python display.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trees"
-            }
-          },
-          {
-            "id": "19062e87bc13c408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs61a_notes/Lab_notes/FunctionsLab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FunctionsLab"
+              "title": "What would python display"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61a_notes/Lab_notes/FunctionsLab.md",
+                "file": "cs61a_notes/Lab_notes/What would python display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "FunctionsLab 的反向链接列表"
+              "title": "What would python display 的反向链接列表"
             }
           },
           {
@@ -220,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6fcdbc1dd81c01c",
+  "active": "5ba8eda87488198d",
   "lastOpenFiles": [
     "cs61a_notes/Lab_notes/Unix.md",
-    "cs61a_notes/Lab_notes/What would python display.md",
     "cs61a_notes/Lab_notes/FunctionsLab.md",
+    "cs61a_notes/Lab_notes/What would python display.md",
     "cs61a_notes/Decomposition.md",
     "cs61a_notes/Lecture_notes/Composition.md",
     "cs61a/projects/hog/gui_files/static/js/runtime-main.49dadbd7.js",
